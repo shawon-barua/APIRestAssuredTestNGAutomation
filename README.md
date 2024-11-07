@@ -1,8 +1,11 @@
 # API Automation BY Restassured and TestNG
 
 This repo demonstrates how to do API Test Automation using Java, TestNg and make a Maven project.
-
-- For the API Test Automation we use Restassured
+- For the API Test Automation I used Restassured
+- Tried to Modularize
+- Resusable , maintainable code
+- Random data by java Faker used
+- Data driven by read input from JSON
 
 **Table of Contents**
 <!--ts-->
